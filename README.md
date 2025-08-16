@@ -8,10 +8,73 @@
 ---
 
 ### 🖥️ About Me  
-```text
-⚡ Editor:       VS Code  
-🌐 Languages:   Python | C/C++ | Java | JavaScript  
-🛠️ Specialty:   Full Stack Development | Problem Solving | Cybersecurity  
-📖 Learning:    MERN Stack | DSA | Advanced Java | Tailwind CSS | Security Fundamentals  
-💼 Experience:  45-Day Full Stack Internship @ Xebia  
-🎓 Education:   B.Tech in Information Technology, MBM University Jodhpur  
+
+⚡ **Editor:** VS Code  
+🌐 **Languages:** Python | C/C++ | Java | JavaScript  
+🛠️ **Specialty:** Full Stack Development | Problem Solving | Cybersecurity  
+📖 **Learning:** MERN Stack | DSA | Advanced Java | Tailwind CSS | Security Fundamentals  
+💼 **Experience:** 45-Day Full Stack Internship @ Xebia  
+🎓 **Education:** B.Tech in Information Technology, MBM University Jodhpur  
+
+---
+
+### 📜 Certifications  
+- 🛡️ ISC2 CC (Pre-assessment)  
+- 🔒 Cybersecurity Bootcamps (yHills, EduRishi)  
+
+---
+
+### 🚀 Projects  
+- 📦 **Product Inventory App** (MERN + Sequelize)  
+- 🎵 **Spotify Clone** (HTML, CSS, JS)  
+- 📝 **Feedback Collection System** (Node.js + MongoDB + Tailwind)  
+
+---
+
+### 🛠️ Tech Stack  
+
+#### 💻 Programming & Development  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+#### 🌐 Web & Frameworks  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+#### 🛡️ Cybersecurity & Tools  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanmangal&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmangal&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmangal&theme=tokyonight" alt="GitHub Streak" height="180"/>
+</p>
+
+---
+
+### 🌍 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohanmangal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rohanmangal1703@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://spotify-clone-rm.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
