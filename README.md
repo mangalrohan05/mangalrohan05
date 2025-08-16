@@ -12,15 +12,22 @@
 ⚡ **Editor:** VS Code  
 🌐 **Languages:** Python | C/C++ | Java | JavaScript  
 🛠️ **Specialty:** Full Stack Development | Problem Solving | Cybersecurity  
-📖 **Learning:** MERN Stack | DSA | Advanced Java | Tailwind CSS | Security Fundamentals  
-💼 **Experience:** 45-Day Full Stack Internship @ Xebia  
+📖 **Learning:**  DSA | Advanced Java | Security Fundamentals  
+💼 **Experience:** 45-Day Full Stack Internship @ Xebia , 2 months Full Stack Internship @ Proxenix 
 🎓 **Education:** B.Tech in Information Technology, MBM University Jodhpur  
 
 ---
 
 ### 📜 Certifications  
-- 🛡️ ISC2 CC (Pre-assessment)  
-- 🔒 Cybersecurity Bootcamps (yHills, EduRishi)  
+
+- 💼 **Full-Stack Internship @ Xebia**  
+- 🌐 **Let’s Upgrade**: HTML, JavaScript, GitHub  
+- 🛡️ **YHills**: CyberSecurity Bootcamp  
+- 🐍 **Udemy**: Python (completed)  
+- ☕ **Udemy**: Java (in progress)  
+- 🔒 **ISC2 Cybersecurity CC Course Pre-assessment**  
+- 🚀 **EduRishi Entrepreneurship & Mentorship Program (E²MP) Workshop** – MBM University & EduRishi Eduventures Pvt. Ltd.  
+
 
 ---
 
