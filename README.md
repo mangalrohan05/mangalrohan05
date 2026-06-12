@@ -25,8 +25,7 @@
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| **Authentiq** | AI-powered counterfeit product detection pipeline using multi-model ensemble architecture and computer vision | YOLOv8 · OpenCLIP · PaddleOCR · SSIM · FastAPI | 🔨 Active |
-| **ChatLens** | WhatsApp chat analyser with sentiment analysis, heatmaps, and per-user NLP insights | Python · React · Flask · Recharts | ✅ Complete |
+| **ChatLens** | WhatsApp chat analyser with sentiment analysis, heatmaps, and per-user NLP insights | Python · React · Flask · Recharts | 🔨 In Progress |
 | **NeuroSign** | Real-time hand sign recognition via live webcam using deep learning | TensorFlow · MediaPipe · CNN | 🔨 In Progress |
 | **Fake News Detector** | Supervised text classification model to identify misleading information | DistilBERT · Scikit-learn | ✅ Complete |
 | **Energy Prediction** | Regression model forecasting corporate energy consumption patterns | Python · Scikit-learn | ✅ Complete |
@@ -46,9 +45,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFAB?style=for-the-badge&logo=yolo&logoColor=black)
-![OpenCLIP](https://img.shields.io/badge/OpenCLIP-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0066CC?style=for-the-badge&logo=paddlepaddle&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 #### 💻 Programming Languages
