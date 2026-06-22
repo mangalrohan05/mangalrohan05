@@ -1,85 +1,130 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00f7ff;">Rohan Mangal</span></h1>
-
-<h3 align="center">IT Undergrad @ MBM University, Jodhpur &nbsp;|&nbsp; 🤖 Aspiring AI/ML Engineer &nbsp;|&nbsp; 💻 Full Stack Developer</h3>
+<h1 align="center">Rohan Mangal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+the+Making+🤖;Computer+Vision+%26+NLP+🧠;Full+Stack+Developer+💻;Data-Driven+Problem+Solver+📊;Always+Building+🚀" alt="Typing SVG" />
+  <strong>AI/ML Engineer &nbsp;·&nbsp; Full Stack Developer</strong><br/>
+  B.Tech Information Technology &nbsp;·&nbsp; MBM University, Jodhpur &nbsp;·&nbsp; 2023–2027
 </p>
 
----
-
-### 🖥️ About Me
-
-- 🔬 **Core Focus:** Machine Learning · Deep Learning · Computer Vision · NLP  
-- 🛠️ **Building:** AI pipelines, full-stack web apps, and end-to-end deployable systems  
-- 🌐 **Languages:** Python · C/C++ · Java · JavaScript  
-- 📖 **Currently Learning:** Advanced Deep Learning Architectures · Complex DSA  
-- 🎓 **Education:** B.Tech in Information Technology, MBM University, Jodhpur (2023–2027)  
-- 💼 **Experience:** Full Stack Internship @ Xebia  
-
----
-
-### 🚀 Projects
-
-#### 🤖 AI / Machine Learning
-
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| **ChatLens** | WhatsApp chat analyser with sentiment analysis, heatmaps, and per-user NLP insights | Python · React · Flask · Recharts | 🔨 In Progress |
-| **NeuroSign** | Real-time hand sign recognition via live webcam using deep learning | TensorFlow · MediaPipe · CNN | 🔨 In Progress |
-| **Fake News Detector** | Supervised text classification model to identify misleading information | DistilBERT · Scikit-learn | ✅ Complete |
-| **Energy Prediction** | Regression model forecasting corporate energy consumption patterns | Python · Scikit-learn | ✅ Complete |
-
-#### 🌐 Web Development
-
-| Project | Description | Stack |
-|---|---|---|
-| **Product Inventory App** | Inventory management platform | MERN · Sequelize |
-| **Feedback Collection System** | Structured form and analytics web app | Node.js · MongoDB · Tailwind CSS |
-
----
-
-### 🛠️ Tech Stack
-
-#### 📊 AI / ML & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-#### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🌐 Web & Infrastructure
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📜 Certifications & Programs
-
-- 🤖 **Oracle Cloud Infrastructure (OCI) AI/ML Certification**
-- 💼 **Full-Stack Software Engineering Internship** – Xebia
-- 🚀 **EduRishi E²MP Workshop** – MBM University & EduRishi Eduventures Pvt. Ltd.
-- 🐍 **Python Masterclass** – Udemy
-- 🌐 **Web Development & Version Control Foundation** – Let's Upgrade
-
----
-
-### 🌍 Connect with Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=15&duration=2800&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Building+AI+pipelines+%7C+Computer+Vision+%7C+NLP;OpenCLIP+%C2%B7+YOLOv8+%C2%B7+DistilBERT+%C2%B7+FastAPI;Counterfeit+Detection+%C2%B7+Text+Classification+%C2%B7+Gesture+AI;Full+Stack+%E2%86%92+AI+Engineer+in+progress+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohanmangal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/rohanm0805">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:rohanmangal1703@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mangalrohan05">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
-<p align="center">🌐 Explore my repositories and full source code on <a href="https://github.com/mangalrohan05">GitHub</a>!</p>
+---
+
+## About
+
+I'm a third-year IT undergrad actively transitioning into AI/ML Engineering. My work sits at the intersection of computer vision, NLP, and full-stack deployment — I focus on building systems that go beyond notebooks and into production-ready pipelines.
+
+Currently at **Wepitch** as an AI Engineer, working on a counterfeit product detection system using OpenCLIP and YOLOv8, with upcoming scope in LLMs and RAG-based workflows.
+
+---
+
+## Experience
+
+| Role | Company | Focus |
+|---|---|---|
+| **AI Engineer Intern** | Wepitch | Computer Vision · Counterfeit Detection · OpenCLIP · YOLOv8 |
+| **Full Stack Engineer Intern** | Xebia | MERN Stack · REST APIs · Full-cycle dev |
+
+---
+
+## Projects
+
+### AI / Machine Learning
+
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| [**Authentiq**](https://github.com/mangalrohan05) | End-to-end counterfeit product detection pipeline — visual similarity, logo extraction, OCR verification | OpenCLIP · YOLOv8 · EasyOCR · FastAPI · asyncio | 🔨 Active |
+| [**ChatLens**](https://github.com/mangalrohan05) | WhatsApp chat analyser — sentiment, activity heatmaps, per-user NLP breakdowns | Python · React · Flask · Recharts | 🔨 Active |
+| [**NeuroSign**](https://github.com/mangalrohan05) | Real-time hand sign recognition via webcam using CNN + landmark detection | TensorFlow · MediaPipe · CNN | 🔨 Active |
+| [**Fake News Detector**](https://github.com/mangalrohan05/fake-news-detector) | Supervised text classifier to detect misleading content — DistilBERT fine-tuned with live retrieval | DistilBERT · Scikit-learn · gnews | ✅ Complete |
+| [**Energy Prediction**](https://github.com/mangalrohan05) | Regression model forecasting corporate energy consumption | Python · Scikit-learn | ✅ Complete |
+
+### Web Development
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Product Inventory App** | Full inventory management platform with CRUD + reporting | MERN · Sequelize |
+| **Feedback Collection System** | Structured form submission + analytics dashboard | Node.js · MongoDB · Tailwind CSS |
+
+---
+
+## Tech Stack
+
+**AI / ML**
+&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**CV / Vision Models**
+&nbsp;
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFAA?style=flat-square&logoColor=black)
+![OpenCLIP](https://img.shields.io/badge/OpenCLIP-412991?style=flat-square&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white)
+
+**Backend / APIs**
+&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Frontend**
+&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Databases & Tools**
+&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## Certifications
+
+- **Oracle Cloud Infrastructure (OCI) AI/ML** — Oracle
+- **Full Stack Software Engineering** — Xebia (Internship)
+- **Python Masterclass** — Udemy
+- **Web Development & Version Control Foundation** — Let's Upgrade
+- **EduRishi E²MP Workshop** — MBM University × EduRishi Eduventures
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mangalrohan05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangalrohan05&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangalrohan05&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Open to AI/ML collaborations, research opportunities, and internship roles · <a href="mailto:rohanmangal1703@gmail.com">rohanmangal1703@gmail.com</a></sub>
+</p>
