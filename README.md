@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:rohanmangal1703@gmail.com">
+  <a href="mailto:rohanmangal.2019@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -104,18 +104,17 @@ Currently at **Wepitch** as an AI Engineer, working on a counterfeit product det
 
 ---
 
-## Certifications
+## Problem Solving
 
-- **Oracle Cloud Infrastructure (OCI) AI/ML** — Oracle
-- **Machine Learning A-Z** — Udemy
-- **Full Stack Software Engineering** — Xebia (Internship)
-- **Python Masterclass** — Udemy
-- **Web Development & Version Control Foundation** — Let's Upgrade
-- **EduRishi E²MP Workshop** — MBM University × EduRishi Eduventures
+<p align="center">
+  <a href="https://leetcode.com/u/rohan_85/">
+    <img src="https://leetcard.jacoblin.cool/rohan_85?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
-## Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mangalrohan05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
@@ -125,12 +124,10 @@ Currently at **Wepitch** as an AI Engineer, working on a counterfeit product det
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangalrohan05&theme=tokyonight&hide_border=true" height="160" />
-  &nbsp;
-  <img src="https://leetcard.jacoblin.cool/rohan_85?theme=tokyonight&font=Fira%20Code&ext=activity" height="160" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Open to AI/ML collaborations, research opportunities, and internship roles · <a href="mailto:rohanmangal1703@gmail.com">rohanmangal1703@gmail.com</a></sub>
+  <sub>Open to AI/ML collaborations, research opportunities, and internship roles · <a href="mailto:rohanmangal.2019@gmail.com">rohanmangal.2019@gmail.com</a></sub>
 </p>
