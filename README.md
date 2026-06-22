@@ -1,8 +1,8 @@
 <h1 align="center">Rohan Mangal</h1>
 
 <p align="center">
-  <strong>AI/ML Engineer &nbsp;·&nbsp; Full Stack Developer</strong><br/>
-  B.Tech Information Technology &nbsp;·&nbsp; MBM University, Jodhpur &nbsp;·&nbsp; 2023–2027
+  <strong>AI/ML Engineer &nbsp;·&nbsp; Computer Vision & NLP </strong><br/>
+  B.E. Information Technology &nbsp;·&nbsp; MBM University, Jodhpur &nbsp;·&nbsp; 2023–2027
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 I'm a third-year IT undergrad actively transitioning into AI/ML Engineering. My work sits at the intersection of computer vision, NLP, and full-stack deployment — I focus on building systems that go beyond notebooks and into production-ready pipelines.
 
-Currently at **Wepitch** as an AI Engineer, working on a counterfeit product detection system using OpenCLIP and YOLOv8, with upcoming scope in LLMs and RAG-based workflows.
+Currently at **Wepitch** as an AI Engineer, working on a counterfeit product detection system using OpenCLIP, YOLOv8 and Qwen-VLM, with upcoming scope in LLMs and RAG-based workflows.
 
 ---
 
@@ -48,10 +48,10 @@ Currently at **Wepitch** as an AI Engineer, working on a counterfeit product det
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| [**Authentiq**](https://github.com/mangalrohan05) | End-to-end counterfeit product detection pipeline — visual similarity, logo extraction, OCR verification | OpenCLIP · YOLOv8 · EasyOCR · FastAPI · asyncio | 🔨 Active |
-| [**ChatLens**](https://github.com/mangalrohan05) | WhatsApp chat analyser — sentiment, activity heatmaps, per-user NLP breakdowns | Python · React · Flask · Recharts | 🔨 Active |
+| [**Authentiq**] | End-to-end counterfeit product detection pipeline — visual similarity, logo extraction, OCR verification | OpenCLIP · YOLOv8 · EasyOCR · FastAPI · asyncio | 🔨 Active · `Confidential` |
+| [**ChatLens**](https://github.com/mangalrohan05) | WhatsApp chat analyser — sentiment, activity heatmaps, per-user NLP breakdowns | Python · React · Flask · Recharts | ✅ Complete |
 | [**NeuroSign**](https://github.com/mangalrohan05) | Real-time hand sign recognition via webcam using CNN + landmark detection | TensorFlow · MediaPipe · CNN | 🔨 Active |
-| [**Fake News Detector**](https://github.com/mangalrohan05/fake-news-detector) | Supervised text classifier to detect misleading content — DistilBERT fine-tuned with live retrieval | DistilBERT · Scikit-learn · gnews | ✅ Complete |
+| [**Fake News Detector**](https://github.com/mangalrohan05/fake-news-detector) | Supervised text classifier to detect misleading content — DistilBERT fine-tuned with live retrieval (RAG + Gnews) | DistilBERT · Scikit-learn · gnews | ✅ Complete |
 | [**Energy Prediction**](https://github.com/mangalrohan05) | Regression model forecasting corporate energy consumption | Python · Scikit-learn | ✅ Complete |
 
 ### Web Development
@@ -69,10 +69,9 @@ Currently at **Wepitch** as an AI Engineer, working on a counterfeit product det
 &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **CV / Vision Models**
 &nbsp;
@@ -104,6 +103,7 @@ Currently at **Wepitch** as an AI Engineer, working on a counterfeit product det
 ## Certifications
 
 - **Oracle Cloud Infrastructure (OCI) AI/ML** — Oracle
+- **Machine Learning A-Z** — Udemy
 - **Full Stack Software Engineering** — Xebia (Internship)
 - **Python Masterclass** — Udemy
 - **Web Development & Version Control Foundation** — Let's Upgrade
