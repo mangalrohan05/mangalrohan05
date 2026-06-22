@@ -104,13 +104,14 @@ Currently at **Wepitch** as an AI Engineer, working on a counterfeit product det
 
 ---
 
-## Problem Solving
+## Certifications
 
-<p align="center">
-  <a href="https://leetcode.com/u/rohan_85/">
-    <img src="https://leetcard.jacoblin.cool/rohan_85?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
-  </a>
-</p>
+- **Oracle Cloud Infrastructure (OCI) AI/ML** — Oracle
+- **Machine Learning A-Z** — Udemy
+- **Full Stack Software Engineering** — Xebia (Internship)
+- **Python Masterclass** — Udemy
+- **Web Development & Version Control Foundation** — Let's Upgrade
+- **EduRishi E²MP Workshop** — MBM University × EduRishi Eduventures
 
 ---
 
@@ -124,6 +125,16 @@ Currently at **Wepitch** as an AI Engineer, working on a counterfeit product det
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangalrohan05&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+## LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/rohan_85/">
+    <img src="https://leetcard.jacoblin.cool/rohan_85?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
