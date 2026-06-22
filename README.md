@@ -27,7 +27,7 @@
 
 ## About
 
-I'm a third-year IT undergrad actively transitioning into AI/ML Engineering. My work sits at the intersection of computer vision, NLP, and full-stack deployment — I focus on building systems that go beyond notebooks and into production-ready pipelines.
+I'm a final-year IT undergrad actively transitioning into AI/ML Engineering. My work sits at the intersection of computer vision, NLP, and full-stack deployment — I focus on building systems that go beyond notebooks and into production-ready pipelines.
 
 Currently at **Wepitch** as an AI Engineer, working on a counterfeit product detection system using OpenCLIP, YOLOv8 and Qwen-VLM, with upcoming scope in LLMs and RAG-based workflows.
 
