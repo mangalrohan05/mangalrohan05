@@ -21,6 +21,10 @@
   <a href="https://github.com/mangalrohan05">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/rohan_85/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -111,7 +115,7 @@ Currently at **Wepitch** as an AI Engineer, working on a counterfeit product det
 
 ---
 
-## GitHub Stats
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mangalrohan05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
@@ -121,6 +125,8 @@ Currently at **Wepitch** as an AI Engineer, working on a counterfeit product det
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangalrohan05&theme=tokyonight&hide_border=true" height="160" />
+  &nbsp;
+  <img src="https://leetcard.jacoblin.cool/rohan_85?theme=tokyonight&font=Fira%20Code&ext=activity" height="160" />
 </p>
 
 ---
